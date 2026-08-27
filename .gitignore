@@ -6,4 +6,8 @@
 
 !.gitignore
 !README.md
+!TIMELINE.md
 !package.json
+
+# Registre npm privé : un .npmrc porte un jeton, jamais un dépôt.
+.npmrc
