@@ -1,0 +1,9 @@
+# Ce depot est public : il rend la page de profil GitHub.
+# La liste ci-dessous est une allow-list. Tout est ignore par defaut,
+# seuls les fichiers explicitement autorises sont suivis.
+
+*
+
+!.gitignore
+!README.md
+!package.json
