@@ -1,6 +1,6 @@
 {
   "name": "twaiiiin-profile",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "description": "Page de profil GitHub de Tristan Hubert, rendue par GitHub depuis son README.",
   "homepage": "https://github.com/twaiiiin",
