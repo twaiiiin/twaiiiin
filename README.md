@@ -18,9 +18,6 @@ livraison passée du mois à la semaine.
 vérifications manuelles, l'une sur la facturation, l'autre sur les
 vulnérabilités publiées.
 
-**WordPress depuis 2008.** Ma première casquette professionnelle, et toujours
-celle de mes sites en production.
-
 ## Ce que je fabrique le soir
 
 **[presque.cool](https://presque.cool/)** : 32 applications, jeux et expériences
@@ -33,27 +30,21 @@ chronologie complète du canon Star Wars, tenue seul depuis 2015, entre 50 000 e
 Le reste occupe mes soirées sans promesse de fin : un moteur de jeu de rôle
 commencé il y a vingt ans sous des formes successives, des outils de génération
 procédurale, une chronologie du MCU, un livre de jeu de rôle en écriture, des
-agents à qui j'apprends à tenir des règles de jeu.
+agents IA à qui j'apprends à tenir des règles de jeu.
 
 Et un cimetière plus fourni que la vitrine : prototypes abandonnés au bout de
 trois soirs, idées qui ne marchaient que dans ma tête, API à moitié construites
-pour des projets jamais terminés. Ça fait partie du travail.
+pour des projets jamais terminés. Ça fait partie du process.
 
 ## Comment je travaille
 
-Je viens du code et j'y suis resté par les projets personnels : quand un
-développeur m'explique une contrainte, je sais ce qu'elle implique. Le reste du
+Je viens du code et j'y suis resté par les projets personnels. Le reste du
 métier tient dans un enchaînement que je fais depuis quinze ans, recueillir un
 besoin, le transformer en solution réalisable, prioriser, suivre la livraison et
 la recette, puis accompagner les gens jusqu'à ce qu'ils s'en servent.
 
 L'IA est entrée dans ce quotidien sans le remplacer. Elle absorbe ce qui n'a pas
-de valeur, la décision reste à moi.
-
-## Le parcours complet
-
-[Depuis 1995](TIMELINE.md), les projets professionnels et personnels, ceux qui
-sont encore en ligne et ceux qui ont disparu.
+de valeur, la décision reste la mienne.
 
 ## Me joindre
 
