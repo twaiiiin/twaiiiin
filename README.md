@@ -1,10 +1,12 @@
 # Tristan Hubert
 
-Chef de projet web et Product Owner. J'ai découvert le HTML en 1995, publié mon
-premier site en 2000, et je n'ai jamais cessé de construire depuis.
+Chef de projet numérique · Product Owner — Produits web, innovation et IA
+générative. J'ai découvert le HTML en 1995, publié mon premier site en 2000, et
+je n'ai jamais cessé de construire depuis.
 
-Je cherche un poste de chef de projet, product owner, product manager, R&D ou
-IA, à Paris ou en région parisienne.
+Je cherche un poste de chef de projet numérique ou de Product Owner, autour des
+produits web, de l'innovation et de l'IA générative, à Paris ou en région
+parisienne.
 
 ## Ce que j'ai piloté
 
@@ -13,7 +15,7 @@ connectés et une centaine d'espaces collaboratifs, pour environ 300 000
 adhérents. Une équipe de trois personnes, deux prestataires, et une cadence de
 livraison passée du mois à la semaine.
 
-**Six mois en R&D chez Wisen.** L'adoption du développement assisté par IA dans une
+**Cinq mois en R&D chez Wisen.** L'adoption du développement assisté par IA dans une
 équipe de dix développeurs, et deux automatisations qui ont supprimé des
 vérifications manuelles, l'une sur la facturation, l'autre sur les
 vulnérabilités publiées.
