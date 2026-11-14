@@ -6,5 +6,6 @@
   "homepage": "https://github.com/twaiiiin",
   "repository": "github:twaiiiin/twaiiiin",
   "author": "Tristan Hubert <tristan.hubert@gmail.com> (https://presque.cool)",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "packageManager": "pnpm@12.18.0"
 }
